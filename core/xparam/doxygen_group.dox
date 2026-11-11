@@ -1,0 +1,4 @@
+/**
+ * @defgroup core_xparam core/xparam
+ * @brief XPARAM compatibility parameters for the Deckard (PowerPC) IOP.
+ */
