@@ -51,6 +51,7 @@ members:
   - core/ssbusc
   - core/dev9
   - core/atad
+  - core/ata_bd
   - core/apa
   - core/hdd-osd
   - core/fs
