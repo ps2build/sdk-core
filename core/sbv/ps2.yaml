@@ -10,6 +10,7 @@ targets:
       - src/patch_enable_lmb.c
       - src/patch_disable_prefix_check.c
       - src/patch_user_mem_clear.c
+      - src/patch_romdrv_set_rom1_info.c
       - src/patch_fileio.c
       - src/common.c
     include_dirs:
