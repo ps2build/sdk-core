@@ -1,0 +1,15 @@
+project: xparam
+
+targets:
+  - name: xparam
+    type: iop
+    linkfile: ../startup/share/iop/linkfile
+    sources:
+      - src/xparam.c
+      - src/database_merged.c
+    imports_lst: src/imports.lst
+    include_dirs:
+      - include
+      - src
+      - ../loadcore/include
+      - ../sysclib/include

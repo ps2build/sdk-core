@@ -49,6 +49,7 @@ members:
   - core/secrsif
   - core/sior
   - core/ssbusc
+  - core/xparam
   - core/dev9
   - core/atad
   - core/ata_bd
